@@ -1,2 +1,2 @@
 # 42ist.github.io
-this webpage not offical!
+this webpage is not offical!
